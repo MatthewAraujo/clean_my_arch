@@ -26,6 +26,7 @@ This project was inspired by the article [Clean Arch Linux](https://averagelinux
 
 - Bash shell
 - Arch Linux system
+- rmlint
 
 ## Disclaimer
 
