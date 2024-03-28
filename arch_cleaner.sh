@@ -14,3 +14,6 @@ rm -rf ~/.local/share/*
 # Remove duplicates, empty files, empty directories and broken symlinks
 rmlint /home/$(whoami) 
 ./rmlint.sh
+
+# Remove old logs
+sudo journalctl --vacuum-size=50M
