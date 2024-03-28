@@ -23,6 +23,7 @@ Arch Cleaner is a bash script designed to help you maintain your Arch Linux syst
 
 - Bash shell
 - Arch Linux system
+- rmlint
 
 ## Disclaimer
 
