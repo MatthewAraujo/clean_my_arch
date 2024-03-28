@@ -4,6 +4,9 @@
 
 Arch Cleaner is a bash script designed to help you maintain your Arch Linux system by automating various cleaning tasks. With this script, you can easily clean up unnecessary files, remove duplicate files, optimize memory usage, and more.
 
+This project was inspired by the article [Clean Arch Linux](https://averagelinuxuser.com/clean-arch-linux/) by Average Linux User.
+
+
 ## Features
 
 - **Memory Cleaning**: Free up memory by clearing cache and temporary files.
